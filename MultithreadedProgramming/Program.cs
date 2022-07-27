@@ -12,3 +12,5 @@
 // MultithreadedProgramming.Module01.Example10.Example.Init();
 // MultithreadedProgramming.Module01.Example11.Example.Init();
 // MultithreadedProgramming.Module01.Example12.Example.Init();
+
+await MultithreadedProgramming.Module02.Example01.Example.InitAsync();
